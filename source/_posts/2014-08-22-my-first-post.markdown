@@ -15,6 +15,8 @@ front end stuff we'll be doing might involve Rails and Ruby, I decided to take a
 
 It's the way to learn about things and go back to my "hacker" (in the good sense), assembly language days of the Commodore 64. There are plenty of hosted solutions, Web based Blogspots, etc. but I liked the idea of installing everything from zero, be forced to use git more frequently, and feel a bit more of a hacker. Simple, concrete, just write in Markdown, type a few commands and publish it just by pushing to a git repo (I'm using Heroku) 
 
+<!-- more -->
+
 I'll keep my personal blog in Octopress for now, and will continue to develop a few apps and a site in Ruby/Rails (and Sinatra in one case), so thank you [Bloc.io](https://www.bloc.io/). I had an incredible learning experience with [Bloc.io](https://twitter.com/trybloc), and didn't put (yet) live any of my Rails projects nor sites as my primary objective was to get up to speed with modern frameworks and languages and to be capable of having a better ideas exchange with software developers.
 
 I hope my future business interactions all work under the motto:
