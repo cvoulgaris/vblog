@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Voulgaris.com Blog]]></title>
-  <link href="http://blog.voulgaris.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Misc | Voulgaris.com Blog]]></title>
+  <link href="http://blog.voulgaris.com/blog/categories/misc/atom.xml" rel="self"/>
   <link href="http://blog.voulgaris.com/"/>
   <updated>2014-08-22T16:00:18-04:00</updated>
   <id>http://blog.voulgaris.com/</id>
