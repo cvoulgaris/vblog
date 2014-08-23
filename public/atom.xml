@@ -4,7 +4,7 @@
   <title><![CDATA[Voulgaris.com Blog]]></title>
   <link href="http://blog.voulgaris.com/atom.xml" rel="self"/>
   <link href="http://blog.voulgaris.com/"/>
-  <updated>2014-08-22T18:09:42-04:00</updated>
+  <updated>2014-08-22T21:50:18-04:00</updated>
   <id>http://blog.voulgaris.com/</id>
   <author>
     <name><![CDATA[Constantino Voulgaris]]></name>
@@ -22,7 +22,7 @@
 
 <p>Why get my hands &ldquo;dirty&rdquo; with Node.js, or scripts, or shells ? Just because it&rsquo;s harder.</p>
 
-<p>I loved Ghost, but because our website at <a href="http://www.transactilty.com">Transactility</a> is done in Rails, a few
+<p>I loved Ghost, but because our website at <a href="http://www.transactility.com">Transactility</a> is done in Rails, a few
 front end stuff we&rsquo;ll be doing might involve Rails and Ruby, I decided to take a look at <a href="http://jekyllrb.com/">Jekyll</a> and <a href="http://octopress.org">Octopress</a></p>
 
 <p>It&rsquo;s the way to learn about things and go back to my &ldquo;hacker&rdquo; (in the good sense), assembly language days of the Commodore 64. There are plenty of hosted solutions, Web based Blogspots, etc. but I liked the idea of installing everything from zero, be forced to use git more frequently, and feel a bit more of a hacker. Simple, concrete, just write in Markdown, type a few commands and publish it just by pushing to a git repo (I&rsquo;m using Heroku)</p>
