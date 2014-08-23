@@ -10,7 +10,7 @@ So this is my first post, of my first blog, of my first built-from-scratch-serve
 
 Why get my hands "dirty" with Node.js, or scripts, or shells ? Just because it's harder. 
 
-I loved Ghost, but because our website at [Transactility](http://www.transactilty.com) is done in Rails, a few
+I loved Ghost, but because our website at [Transactility](http://www.transactility.com) is done in Rails, a few
 front end stuff we'll be doing might involve Rails and Ruby, I decided to take a look at [Jekyll](http://jekyllrb.com/) and [Octopress](http://octopress.org)
 
 It's the way to learn about things and go back to my "hacker" (in the good sense), assembly language days of the Commodore 64. There are plenty of hosted solutions, Web based Blogspots, etc. but I liked the idea of installing everything from zero, be forced to use git more frequently, and feel a bit more of a hacker. Simple, concrete, just write in Markdown, type a few commands and publish it just by pushing to a git repo (I'm using Heroku) 
